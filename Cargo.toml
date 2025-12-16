@@ -1,0 +1,7 @@
+[package]
+name = "pontinho-pontinho-pontinho"
+version = "0.0.1"
+edition = "2024"
+
+[dependencies]
+playing_cards = "0.1.3"
